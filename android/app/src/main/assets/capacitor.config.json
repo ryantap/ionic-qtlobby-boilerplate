@@ -1,0 +1,8 @@
+{
+  "appId": "com.qtech.qtechtester",
+  "appName": "ionic-capacitor-test",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
